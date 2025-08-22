@@ -1,12 +1,11 @@
-# **Tema escolhido:** Nome da aplicação ou produto
+# **Tema escolhido:** Sistema de Monitoramento de Animais de Estimação
 
 Trabalho de Experiencia do Usuário (UX) apresentado ao Centro Universitário [FEI](https://portal.fei.edu.br/), como parte dos requisitos necessários para aprovação na disciplina de Experiência do Usuário e Front-End (CCP310) do curso de Ciencia da Computação, orientado pelo Prof. Dr. [Fagner de Assis Moura Pimentel](https://github.com/fagnerpimentel).
 
 ## Componentes do Grupo
 
-- Nome Componente 1
+- João Vitor Alves Escudeiro
 - Nome Componente 2
-- Nome Componente 3
 
 ## Resumo
 
@@ -90,3 +89,4 @@ Apresente uma breve descrição da sua aplicação ou produto.
 <!-- TODOs:
 - Add exemplos
  -->
+
