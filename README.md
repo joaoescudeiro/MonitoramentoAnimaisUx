@@ -4,7 +4,7 @@ Trabalho de Experiencia do Usuário (UX) apresentado ao Centro Universitário [F
 
 ## Componentes do Grupo
 
-- João Vitor Alves Escudeiro
+- João Vitor Alves Escudeiro 24.22.010-9
 - Isabela Bonoto de Castro
 
 ## Resumo
@@ -89,5 +89,6 @@ Apresente uma breve descrição da sua aplicação ou produto.
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
