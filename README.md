@@ -15,7 +15,7 @@ Trabalho de Experiencia do Usuário (UX) apresentado ao Centro Universitário [F
 
 - O site é uma boa solução para pessoas que não possuem uma forma eficiente de monitorar as diversas necessidades de seus animais de estimação.
 - A partir de certas funções disponíveis no site, o monitoramento do seu animal de estimação se torna muito mais eficiente.
-- Que tipo de experiência o serviço ou poduto deve proporcionar para os usuários?
+- O site terá uma interface fácil de entender e interagir, tornando a experiência do usuário a menos trabalhosa possível, para que ele possa realizar funções de forma mais eficiente.
 
 ## Publico Alvo
 
@@ -94,6 +94,7 @@ Trabalho de Experiencia do Usuário (UX) apresentado ao Centro Universitário [F
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
