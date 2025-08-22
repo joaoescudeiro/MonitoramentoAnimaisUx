@@ -5,7 +5,7 @@ Trabalho de Experiencia do Usuário (UX) apresentado ao Centro Universitário [F
 ## Componentes do Grupo
 
 - João Vitor Alves Escudeiro 24.224.010-9
-- Isabela Bonoto de Castro
+- Isabela Bonoto de Castro 24.224.008-3
 
 ## Resumo
 
@@ -22,13 +22,18 @@ Trabalho de Experiencia do Usuário (UX) apresentado ao Centro Universitário [F
 - Donos de pets.
 
 ### Personas
-
-- Descreva as personas que irão interagir com a aplicação ou produto. Deixe claro suas principais caracteristicas e contextos sociais, econômicos e culturais.
+- Persona primária 1:
+  ...
+- Persona primária 2:
+  ...
+- Persona primária 3:
+  ...
+- Persona secundária:
+  ...
+- Persona negativa:
+  ...
+  
 - Quais informações sobre o usuário o serviço ou poduto deve guardar?
-
-  - Persona primaira ...
-  - Persona secundária ...
-  - Outras personas ...
 
 ### Mapa de empatia
 
@@ -89,6 +94,7 @@ Trabalho de Experiencia do Usuário (UX) apresentado ao Centro Universitário [F
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
