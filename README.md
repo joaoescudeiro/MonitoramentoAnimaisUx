@@ -9,11 +9,11 @@ Trabalho de Experiencia do Usuário (UX) apresentado ao Centro Universitário [F
 
 ## Resumo
 
-- O site tem como objetivo auxiliar o usuário no acompanhamento da saúde e rotina dos seus animais, a partir de funções como Cadastro de usuários e pets, Registro de vacinas e consultas, Dashboard com lembretes e Configuração de alertas.
+- A solução desenvolvida é um site que tem como objetivo auxiliar o usuário no acompanhamento da saúde e rotina dos seus animais, a partir de funções como Cadastro de usuários e pets, Registro de vacinas e consultas, Dashboard com lembretes e Configuração de alertas.
 
 ## Introdução
 
-- Apresente uma contextualização para o problema que o serviço ou poduto proposto irá resolver e por quê esse tipo de aplicação é necessária.
+- O site é uma boa solução para pessoas que não possuem uma forma eficiente de monitorar as diversas necessidades de seus animais de estimação.
 - Em uma única frase, resuma o objetivo do serviço ou poduto.
 - Que tipo de experiência o serviço ou poduto deve proporcionar para os usuários?
 
@@ -89,6 +89,7 @@ Trabalho de Experiencia do Usuário (UX) apresentado ao Centro Universitário [F
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
