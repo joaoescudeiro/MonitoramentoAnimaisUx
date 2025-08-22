@@ -4,12 +4,12 @@ Trabalho de Experiencia do Usuário (UX) apresentado ao Centro Universitário [F
 
 ## Componentes do Grupo
 
-- João Vitor Alves Escudeiro 24.22.010-9
+- João Vitor Alves Escudeiro 24.224.010-9
 - Isabela Bonoto de Castro
 
 ## Resumo
 
-Apresente uma breve descrição da sua aplicação ou produto.
+- O site tem como objetivo auxiliar o usuário no acompanhamento da saúde e rotina dos seus animais, a partir de funções como Cadastro de usuários e pets, Registro de vacinas e consultas, Dashboard com lembretes e Configuração de alertas.
 
 ## Introdução
 
@@ -89,6 +89,7 @@ Apresente uma breve descrição da sua aplicação ou produto.
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
