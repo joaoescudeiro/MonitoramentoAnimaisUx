@@ -33,7 +33,7 @@ Trabalho de Experiencia do Usuário (UX) apresentado ao Centro Universitário [F
 - Persona negativa:
   ...
   
-- Quais informações sobre o usuário o serviço ou poduto deve guardar?
+- O serviço irá guardar informações de identificação do usuário, como cpf e nome completo, e informações importantes sobre seus pets, como nome, idade, espécie e histórico de saúde e vacinação do animal.
 
 ### Mapa de empatia
 
@@ -94,6 +94,7 @@ Trabalho de Experiencia do Usuário (UX) apresentado ao Centro Universitário [F
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
