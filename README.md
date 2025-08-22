@@ -14,7 +14,7 @@ Trabalho de Experiencia do Usuário (UX) apresentado ao Centro Universitário [F
 ## Introdução
 
 - O site é uma boa solução para pessoas que não possuem uma forma eficiente de monitorar as diversas necessidades de seus animais de estimação.
-- Em uma única frase, resuma o objetivo do serviço ou poduto.
+- A partir de certas funções disponíveis no site, o monitoramento do seu animal de estimação se torna muito mais eficiente.
 - Que tipo de experiência o serviço ou poduto deve proporcionar para os usuários?
 
 ## Publico Alvo
@@ -89,6 +89,7 @@ Trabalho de Experiencia do Usuário (UX) apresentado ao Centro Universitário [F
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
