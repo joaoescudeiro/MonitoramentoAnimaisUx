@@ -5,7 +5,7 @@ Trabalho de Experiencia do Usuário (UX) apresentado ao Centro Universitário [F
 ## Componentes do Grupo
 
 - João Vitor Alves Escudeiro
-- Nome Componente 2
+- Isabela Bonoto de Castro
 
 ## Resumo
 
@@ -19,7 +19,7 @@ Apresente uma breve descrição da sua aplicação ou produto.
 
 ## Publico Alvo
 
-- Determine o seu público alvo:
+- Donos de pets.
 
 ### Personas
 
@@ -89,4 +89,5 @@ Apresente uma breve descrição da sua aplicação ou produto.
 <!-- TODOs:
 - Add exemplos
  -->
+
 
