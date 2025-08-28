@@ -23,84 +23,91 @@ Trabalho de Experiencia do Usuário (UX) apresentado ao Centro Universitário [F
 
 ## Personas
 ### Persona primária 1:
-Nome: Carla Mendes  
-Idade: 34 anos  
-Profissão: Analista de Marketing Digital  
-Localização: Belo Horizonte, MG  
-Pet: Cachorro (Golden Retriever) de 3 anos  
-Comportamento digital: Usa aplicativos diariamente, principalmente no celular.  
-Necessidades:  
+
+**Nome:** Carla Mendes  
+**Idade:** 34 anos  
+**Profissão:** Analista de Marketing Digital  
+**Localização:** Belo Horizonte, MG  
+**Pet:** Cachorro (Golden Retriever) de 3 anos  
+**Comportamento digital:**  
+Usa aplicativos diariamente, principalmente no celular.  
+**Necessidades:**  
 Lembrar das datas de vacinação e consultas.  
 Ter um histórico de saúde do pet acessível em um só lugar.  
 Receber notificações de rotina (banho, vermífugo, etc).  
-Problemas a solucionar:  
+**Problemas a solucionar:**  
 Costuma esquecer as datas das vacinas.  
 Acha difícil organizar os cuidados com o pet em meio à rotina corrida.  
-Objetivos com o sistema:  
+**Objetivos com o sistema:**  
 Facilitar o monitoramento da saúde e bem-estar do seu pet.  
 Sentir-se segura de que está cumprindo com todas as responsabilidades de tutora.  
 
 ### Persona primária 2:
-Nome: Henrique Lima  
-Idade: 22 anos  
-Profissão: Estudante de Engenharia  
-Localização: São Paulo, SP  
-Pet: Gato filhote (adotado recentemente)  
-Comportamento digital: Usa bastante o celular, navega por apps e jogos.  
-Necessidades:  
+**Nome:** Henrique Lima  
+**Idade:** 22 anos  
+**Profissão:** Estudante de Engenharia  
+**Localização:** São Paulo, SP  
+**Pet:** Gato filhote (adotado recentemente)  
+**Comportamento digital:**  
+Usa bastante o celular, navega por apps e jogos.  
+**Necessidades:**  
 Aprender o que é necessário para cuidar do pet.  
 Ter lembretes automáticos sobre vacinação e alimentação.  
-Problemas a solucionar:  
+**Problemas a solucionar:**  
 Falta de informação centralizada sobre os cuidados do animal.  
 Medo de esquecer algo importante por inexperiência.  
-Objetivos com o sistema:  
+**Objetivos com o sistema:**   
 Ter uma espécie de "guia digital" para cuidar bem do pet.  
 Criar uma rotina mais organizada com o novo animal.  
 
 ### Persona primária 3:
-Nome: Luciana Torres  
-Idade: 47 anos  
-Profissão: Médica Veterinária  
-Localização: Recife, PE  
-Pet: 4 cachorros e 2 gatos  
-Comportamento digital: Usa o computador e celular para fins profissionais e pessoais.  
-Necessidades:  
+**Nome:** Luciana Torres  
+**Idade:** 47 anos  
+**Profissão:** Médica Veterinária  
+**Localização:** Recife, PE  
+**Pet:** 4 cachorros e 2 gatos  
+**Comportamento digital:**  
+Usa o computador e celular para fins profissionais e pessoais.  
+**Necessidades:**  
 Organizar a rotina de vários pets ao mesmo tempo.  
 Armazenar e visualizar histórico de saúde de cada animal.  
-Problemas a solucionar:  
+**Problemas a solucionar:**  
 Ter que usar várias ferramentas diferentes para organizar informações.  
 Dificuldade em manter tudo atualizado para todos os pets.  
-Objetivos com o sistema:  
+**Objetivos com o sistema:**  
 Centralizar as informações em uma única plataforma.  
 Automatizar lembretes e alertas.  
 
 ### Persona secundária:
-Nome: Patrícia Gomes  
-Idade: 30 anos  
-Profissão: Pet Sitter (cuidadora de pets)  
-Localização: Curitiba, PR  
-Pet: Não possui pets próprios, cuida dos pets de clientes  
-Comportamento digital: Usa celular para agendar serviços e se comunicar com os clientes.  
-Necessidades:  
+**Nome:** Patrícia Gomes  
+**Idade:** 30 anos  
+**Profissão:** Pet Sitter (cuidadora de pets)  
+**Localização:** Curitiba, PR  
+**Pet:** Não possui pets próprios, cuida dos pets de clientes  
+**Comportamento digital:**  
+Usa celular para agendar serviços e se comunicar com os clientes.  
+**Necessidades:**  
 Organizar a agenda de cuidados com vários pets de clientes.  
 Ter acesso fácil às informações específicas de cada pet.  
-Problemas a solucionar:  
+**Problemas a solucionar:**  
 Depender de anotações físicas ou informações passadas de forma desorganizada pelos donos.  
-Objetivos com o sistema:  
+**Objetivos com o sistema:**  
 Acompanhar a rotina dos pets que cuida, mesmo que não sejam seus.  
 
 ### Persona negativa:
-Nome: Carlos Henrique  
-Idade: 40 anos  
-Profissão: Caminhoneiro  
-Localização: Goiânia, GO  
-Pet: Cachorro (vira-lata) de 5 anos  
-Comportamento digital: Usa pouco a internet e não gosta de tecnologia.  
-Motivo de não ser foco:  
+**Nome:** Carlos Henrique  
+**Idade:** 40 anos  
+**Profissão:** Caminhoneiro  
+**Localização:** Goiânia, GO  
+**Pet:** Cachorro (vira-lata) de 5 anos  
+**Comportamento digital:**  
+Usa pouco a internet e não gosta de tecnologia.  
+**Motivo de não ser foco:**  
 Não tem interesse em usar aplicativos ou sistemas para organização.  
 Acha desnecessário esse tipo de monitoramento.  
 Prefere métodos tradicionais ou não faz controle nenhum da saúde do pet.  
-Objetivos com o sistema: Nenhum, não é um usuário-alvo.  
+**Objetivos com o sistema:**  
+Nenhum, não é um usuário-alvo.  
 
 - O serviço irá guardar informações de identificação do usuário, como cpf e nome completo, e informações importantes sobre seus pets, como nome, idade, espécie e histórico de saúde e vacinação do animal.
 
@@ -226,6 +233,7 @@ Profissionalização do serviço e aumento da credibilidade com os clientes.
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
