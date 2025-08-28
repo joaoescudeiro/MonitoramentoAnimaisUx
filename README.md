@@ -84,7 +84,7 @@ Comportamento digital: Usa celular para agendar serviços e se comunicar com os 
 Necessidades:  
 Organizar a agenda de cuidados com vários pets de clientes.  
 Ter acesso fácil às informações específicas de cada pet.  
-Frustrações:  
+Problemas a solucionar:  
 Depender de anotações físicas ou informações passadas de forma desorganizada pelos donos.  
 Objetivos com o sistema:  
 Acompanhar a rotina dos pets que cuida, mesmo que não sejam seus.  
@@ -226,6 +226,7 @@ Profissionalização do serviço e aumento da credibilidade com os clientes.
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
