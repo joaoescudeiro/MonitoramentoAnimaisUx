@@ -21,7 +21,7 @@ Trabalho de Experiencia do Usuário (UX) apresentado ao Centro Universitário [F
 
 - Donos de pets.
 
-### Personas
+## Personas
 ### Persona primária 1:
 Nome: Carla Mendes  
 Idade: 34 anos  
@@ -226,6 +226,7 @@ Profissionalização do serviço e aumento da credibilidade com os clientes.
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
