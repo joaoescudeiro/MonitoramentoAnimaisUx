@@ -22,31 +22,163 @@ Trabalho de Experiencia do Usuário (UX) apresentado ao Centro Universitário [F
 - Donos de pets.
 
 ### Personas
-- Persona primária 1:
-  ...
-- Persona primária 2:
-  ...
-- Persona primária 3:
-  ...
-- Persona secundária:
-  ...
-- Persona negativa:
-  ...
-  
+### Persona primária 1:
+Nome: Carla Mendes  
+Idade: 34 anos  
+Profissão: Analista de Marketing Digital  
+Localização: Belo Horizonte, MG  
+Pet: Cachorro (Golden Retriever) de 3 anos  
+Comportamento digital: Usa aplicativos diariamente, principalmente no celular.  
+Necessidades:  
+Lembrar das datas de vacinação e consultas.  
+Ter um histórico de saúde do pet acessível em um só lugar.  
+Receber notificações de rotina (banho, vermífugo, etc).  
+Problemas a solucionar:  
+Costuma esquecer as datas das vacinas.  
+Acha difícil organizar os cuidados com o pet em meio à rotina corrida.  
+Objetivos com o sistema:  
+Facilitar o monitoramento da saúde e bem-estar do seu pet.  
+Sentir-se segura de que está cumprindo com todas as responsabilidades de tutora.  
+
+### Persona primária 2:
+Nome: Henrique Lima  
+Idade: 22 anos  
+Profissão: Estudante de Engenharia  
+Localização: São Paulo, SP  
+Pet: Gato filhote (adotado recentemente)  
+Comportamento digital: Usa bastante o celular, navega por apps e jogos.  
+Necessidades:  
+Aprender o que é necessário para cuidar do pet.  
+Ter lembretes automáticos sobre vacinação e alimentação.  
+Problemas a solucionar:  
+Falta de informação centralizada sobre os cuidados do animal.  
+Medo de esquecer algo importante por inexperiência.  
+Objetivos com o sistema:  
+Ter uma espécie de "guia digital" para cuidar bem do pet.  
+Criar uma rotina mais organizada com o novo animal.  
+
+### Persona primária 3:
+Nome: Luciana Torres  
+Idade: 47 anos  
+Profissão: Médica Veterinária  
+Localização: Recife, PE  
+Pet: 4 cachorros e 2 gatos  
+Comportamento digital: Usa o computador e celular para fins profissionais e pessoais.  
+Necessidades:  
+Organizar a rotina de vários pets ao mesmo tempo.  
+Armazenar e visualizar histórico de saúde de cada animal.  
+Problemas a solucionar:  
+Ter que usar várias ferramentas diferentes para organizar informações.  
+Dificuldade em manter tudo atualizado para todos os pets.  
+Objetivos com o sistema:  
+Centralizar as informações em uma única plataforma.  
+Automatizar lembretes e alertas.  
+
+### Persona secundária:
+Nome: Patrícia Gomes  
+Idade: 30 anos  
+Profissão: Pet Sitter (cuidadora de pets)  
+Localização: Curitiba, PR  
+Pet: Não possui pets próprios, cuida dos pets de clientes  
+Comportamento digital: Usa celular para agendar serviços e se comunicar com os clientes.  
+Necessidades:  
+Organizar a agenda de cuidados com vários pets de clientes.  
+Ter acesso fácil às informações específicas de cada pet.  
+Frustrações:  
+Depender de anotações físicas ou informações passadas de forma desorganizada pelos donos.  
+Objetivos com o sistema:  
+Acompanhar a rotina dos pets que cuida, mesmo que não sejam seus.  
+
+### Persona negativa:
+Nome: Carlos Henrique  
+Idade: 40 anos  
+Profissão: Caminhoneiro  
+Localização: Goiânia, GO  
+Pet: Cachorro (vira-lata) de 5 anos  
+Comportamento digital: Usa pouco a internet e não gosta de tecnologia.  
+Motivo de não ser foco:  
+Não tem interesse em usar aplicativos ou sistemas para organização.  
+Acha desnecessário esse tipo de monitoramento.  
+Prefere métodos tradicionais ou não faz controle nenhum da saúde do pet.  
+Objetivos com o sistema: Nenhum, não é um usuário-alvo.  
+
 - O serviço irá guardar informações de identificação do usuário, como cpf e nome completo, e informações importantes sobre seus pets, como nome, idade, espécie e histórico de saúde e vacinação do animal.
 
 ### Mapa de empatia
 
 ![Mapa de empatia](empatia.png)
 
-- Determine o mapa de empatia[^1] de pelo menos uma persona primária e uma sercundária.
-  - O que o usuário vê: aqui estamos falando do ambiente visual em que o usuário se encontra. Ou seja, o que ele efetivamente enxerga, as pessoas e objetos que estão ao seu redor. Isso ajuda a entender o contexto em que o usuário está inserido e as influências visuais que está recebendo.
-  - O que o usuário ouve: neste quadrante, buscamos entender o que o usuário está ouvindo, os sons que o cercam e como eles influenciam suas ações.
-  - O que o usuário diz e faz: aqui consideramos ações e comportamentos que o usuário apresenta durante sua interação com serviço ou poduto.
-  - O que o usuário pensa e sente: neste quadrante, buscamos entender os pensamentos, sentimentos, emoções e percepções que o usuário tem em relação ao serviço ou poduto. Quais expectativas o usuário cria sobre o serviço ou poduto?
-  Que tipo de serviço ou poduto mais agrada essa persona?
-  - Dores: quando falamos sobre dores do usuário, estamos fazendo referência a quaisquer obstáculos, necessidades ou frustrações que o usuário possa experimentar ao tentar realizar uma tarefa ou alcançar um objetivo. Isso inclui, por exemplo, problemas de usabilidade, dificuldades de acesso ou outros desafios que podem afetar a experiência do usuário.
-  - Ganhos: nesse caso estamos falando de quaisquer benefícios ou recompensas que o usuário possa experimentar ao utilizar o serviço ou poduto. Isso pode incluir economia de tempo ou facilidade de uso, por exemplo. Que desejos do usuário o serviço ou poduto satisfaz?
+### Mapa de Empatia — Persona Primária 1: Carla Mendes
+
+#### - O que o usuário vê:
+Vê seu pet diariamente e se preocupa com o bem-estar dele.  
+Enxerga uma rotina corrida de trabalho e pouco tempo para organizar tarefas manuais.  
+Utiliza bastante o celular e vê anúncios e conteúdos sobre cuidados com animais nas redes sociais.  
+Observa outros tutores usando apps para organização e se sente motivada a procurar soluções similares.
+
+#### - O que o usuário ouve:
+Ouve recomendações de amigos e familiares sobre clínicas veterinárias, produtos e cuidados com pets.  
+Recebe alertas de aplicativos no celular que usa para trabalho e vida pessoal.  
+Pode ouvir do veterinário a importância de manter um histórico de vacinas e consultas.
+
+#### - O que o usuário diz e faz:
+Diz que gosta de manter tudo organizado, mas nem sempre consegue.  
+Demonstra cuidado e carinho pelo pet, e quer fazer o melhor por ele.  
+Tenta anotar lembretes no celular ou agenda, mas esquece com frequência.  
+Busca por soluções práticas e rápidas para o dia a dia.
+
+#### - O que o usuário pensa e sente:
+Sente culpa ao esquecer compromissos importantes para o pet, como vacinas.  
+Quer garantir que o pet tenha uma vida saudável e segura.  
+Pensa que a tecnologia pode ser uma aliada, mas precisa ser fácil e eficiente.  
+Tem altas expectativas por soluções que economizem tempo e facilitem sua rotina.
+
+#### - Dores:
+Esquecimento de datas importantes.  
+Falta de tempo para se organizar.  
+Dificuldade em acompanhar manualmente a saúde do pet.
+
+#### - Ganhos:
+Economia de tempo com alertas automáticos.  
+Tranquilidade ao ter todas as informações do pet em um só lugar.  
+Sensação de estar cumprindo bem seu papel de tutora responsável.
+
+
+### Mapa de Empatia — Persona Secundária: Patrícia Gomes
+
+#### - O que o usuário vê:
+Vê vários pets ao longo do dia, cada um com necessidades e rotinas diferentes.  
+Enxerga uma agenda cheia de compromissos com horários específicos.  
+Utiliza o celular constantemente como ferramenta de trabalho e organização.  
+Percebe a dificuldade em manter todas as informações organizadas e acessíveis rapidamente.
+
+#### - O que o usuário ouve:
+Escuta instruções detalhadas dos tutores sobre alimentação, horários, medicação e comportamentos dos pets.  
+Recebe mensagens frequentes de clientes via WhatsApp com atualizações ou lembretes.  
+Ouve feedbacks positivos e negativos sobre o seu serviço de cuidado com os pets.
+
+#### - O que o usuário diz e faz:
+Diz que precisa manter tudo organizado para evitar falhas nos cuidados.  
+Utiliza cadernos, planilhas e o celular para anotar informações importantes.  
+Mantém contato constante com os tutores para confirmar ou ajustar detalhes.  
+Procura maneiras de tornar seu trabalho mais profissional e confiável.
+
+#### - O que o usuário pensa e sente:
+Sente uma grande responsabilidade por cuidar dos animais de outras pessoas.  
+Pensa que um erro pode comprometer sua reputação e o bem-estar do pet.  
+Deseja ser reconhecida como uma cuidadora organizada, confiável e profissional.  
+Acredita que uma solução digital específica poderia facilitar e otimizar sua rotina.
+
+#### - Dores:
+Dificuldade em gerenciar informações de muitos pets de forma manual.  
+Risco de esquecer instruções importantes ou confundir rotinas.  
+Falta de uma ferramenta única para organizar todos os dados com segurança.
+
+#### - Ganhos:
+Organização centralizada das informações e rotinas de cada pet.  
+Maior agilidade e confiança ao executar as tarefas diárias.  
+Facilidade na comunicação com os tutores.  
+Profissionalização do serviço e aumento da credibilidade com os clientes.
 
 ## Contexto de uso
 
@@ -94,6 +226,7 @@ Trabalho de Experiencia do Usuário (UX) apresentado ao Centro Universitário [F
 <!-- TODOs:
 - Add exemplos
  -->
+
 
 
 
