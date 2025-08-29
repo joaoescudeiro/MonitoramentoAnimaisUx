@@ -109,7 +109,7 @@ Prefere métodos tradicionais ou não faz controle nenhum da saúde do pet.
 **Objetivos com o sistema:**  
 Nenhum, não é um usuário-alvo.  
 
-- O serviço irá guardar informações de identificação do usuário, como cpf e nome completo, e dados importantes sobre seus pets, como nome, idade, espécie e informações sobre a saúde e vacinação do animal.
+- O serviço irá guardar informações de identificação do usuário, como cpf, nome completo e contatos, e dados importantes sobre seus pets, como nome, idade, espécie, peso e histórico da saúde e vacinação do animal.
 
 ### Mapa de empatia
 
@@ -188,10 +188,13 @@ Profissionalização do serviço e aumento da credibilidade com os clientes.
 
 ## Contexto de uso
 
-- Descreva o ambiente em que o serviço ou poduto deve ser utilizado.
-- Qual/quais o(s) contexto(s) sociais, econômicos e culturais existentes neste ambiente?
-- Quais informações sobre o ambiente, o serviço ou poduto deve guardar antes de iniciar a interação?
-- O que normalmente deve estar acontecendo com o ambiente quando o usuário interagir com o serviço ou poduto?
+- O serviço será utilizado principalmente em ambientes residenciais.
+- Há um contexto em que os pets são considerados membros da família, com grande investimento emocional e financeiro de seus donos.
+- Serão guardadas informações relevantes sobre o ambiente, como condições de espaço em que o animal vive (restrições de movimento) e tipo de residência.
+- Durante a utilização do produto, o usuário provavelmente deve estar:
+- Em casa, conferindo a rotina diária do seu animal.
+- Em momentos de preocupação, como ao perceber um comportamento ou sintoma incomum.
+- Em consultas veterinárias, usando o histórico da aplicação para fornecer informações ao profissional.
 
 ## Jornada do usuário
 
@@ -228,6 +231,7 @@ Profissionalização do serviço e aumento da credibilidade com os clientes.
 #### Avaliação heurística
 
 [^1]: Fonte: Adaptado de <https://hazeshift.com.br/mapa-de-empatia/>
+
 
 
 
