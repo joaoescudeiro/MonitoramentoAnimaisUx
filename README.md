@@ -216,6 +216,7 @@ Persona 1 - Carla Mendes
   - Existe plataforma diferente quanto ao serviço, mas que atenda esse mercado? Se sim: Quais os pontos positivos? Quais os pontos negativos?
 
 ## Coleta de dados
+- https://docs.google.com/forms/d/e/1FAIpQLSdtmWC_8nNTeHDH8rb02tls6qIQwK2j44UYmbuzPtQTx4mbkQ/viewform?usp=header
 
 ## Modelo de tarefas
 
@@ -235,6 +236,7 @@ Persona 1 - Carla Mendes
 #### Avaliação heurística
 
 [^1]: Fonte: Adaptado de <https://hazeshift.com.br/mapa-de-empatia/>
+
 
 
 
