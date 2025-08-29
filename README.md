@@ -9,13 +9,13 @@ Trabalho de Experiencia do Usuário (UX) apresentado ao Centro Universitário [F
 
 ## Resumo
 
-- A solução desenvolvida é um site que tem como objetivo auxiliar o usuário no acompanhamento da saúde e rotina dos seus animais, a partir de funções como Cadastro de usuários e pets, Registro de vacinas e consultas, Dashboard com lembretes e Configuração de alertas.
+- O sistema desenvolvido tem como objetivo auxiliar o usuário no acompanhamento da saúde e rotina de seus animais, a partir de funções como cadastro de usuários e pets, registro de vacinas e consultas, dashboard com lembretes e configuração de alertas.
 
 ## Introdução
 
 - O site é uma boa solução para pessoas que não possuem uma forma eficiente de monitorar as diversas necessidades de seus animais de estimação.
 - A partir de certas funções disponíveis no site, o monitoramento do seu animal de estimação se torna muito mais fácil.
-- O site terá uma interface fácil de entender e interagir, tornando a experiência do usuário a menos trabalhosa possível, para que ele possa realizar funções da melhor forma.
+- O site terá uma interface fácil de entender e interagir, proporcionando ao usuário uma experiência intuitiva e confiável, para que ele possa realizar as funções da melhor forma.
 
 ## Publico Alvo
 
@@ -65,7 +65,7 @@ Criar uma rotina mais organizada com o novo animal.
 **Idade:** 47 anos  
 **Profissão:** Médica Veterinária  
 **Localização:** Recife, PE  
-**Pet:** 4 cachorros e 2 gatos  
+**Pet:** 4 cachorros, 2 gatos e 2 peixes
 **Comportamento digital:**  
 Usa o computador e celular para fins profissionais e pessoais.  
 **Necessidades:**  
@@ -81,7 +81,7 @@ Automatizar lembretes e alertas.
 ### Persona secundária:
 **Nome:** Patrícia Gomes  
 **Idade:** 30 anos  
-**Profissão:** Pet Sitter (cuidadora de pets)  
+**Profissão:** Pet Sitter (babá de pets)  
 **Localização:** Curitiba, PR  
 **Pet:** Não possui pets próprios, cuida dos pets de clientes  
 **Comportamento digital:**  
@@ -109,7 +109,7 @@ Prefere métodos tradicionais ou não faz controle nenhum da saúde do pet.
 **Objetivos com o sistema:**  
 Nenhum, não é um usuário-alvo.  
 
-- O serviço irá guardar informações de identificação do usuário, como cpf e nome completo, e informações importantes sobre seus pets, como nome, idade, espécie e histórico de saúde e vacinação do animal.
+- O serviço irá guardar informações de identificação do usuário, como cpf e nome completo, e dados importantes sobre seus pets, como nome, idade, espécie e informações sobre a saúde e vacinação do animal.
 
 ### Mapa de empatia
 
@@ -143,7 +143,7 @@ Tem altas expectativas por soluções que economizem tempo e facilitem sua rotin
 #### - Dores:
 Esquecimento de datas importantes.  
 Falta de tempo para se organizar.  
-Dificuldade em acompanhar manualmente a saúde do pet.
+Medo de perder seu pet.
 
 #### - Ganhos:
 Economia de tempo com alertas automáticos.  
@@ -160,7 +160,7 @@ Utiliza o celular constantemente como ferramenta de trabalho e organização.
 Percebe a dificuldade em manter todas as informações organizadas e acessíveis rapidamente.
 
 #### - O que o usuário ouve:
-Escuta instruções detalhadas dos tutores sobre alimentação, horários, medicação e comportamentos dos pets.  
+Escuta instruções detalhadas dos clientes sobre alimentação, horários, medicação e comportamentos dos pets.  
 Recebe mensagens frequentes de clientes via WhatsApp com atualizações ou lembretes.  
 Ouve feedbacks positivos e negativos sobre o seu serviço de cuidado com os pets.
 
@@ -168,18 +168,17 @@ Ouve feedbacks positivos e negativos sobre o seu serviço de cuidado com os pets
 Diz que precisa manter tudo organizado para evitar falhas nos cuidados.  
 Utiliza cadernos, planilhas e o celular para anotar informações importantes.  
 Mantém contato constante com os tutores para confirmar ou ajustar detalhes.  
-Procura maneiras de tornar seu trabalho mais profissional e confiável.
 
 #### - O que o usuário pensa e sente:
 Sente uma grande responsabilidade por cuidar dos animais de outras pessoas.  
 Pensa que um erro pode comprometer sua reputação e o bem-estar do pet.  
 Deseja ser reconhecida como uma cuidadora organizada, confiável e profissional.  
-Acredita que uma solução digital específica poderia facilitar e otimizar sua rotina.
+Acredita que uma solução digital específica poderia facilitar seu trabalho.
 
 #### - Dores:
 Dificuldade em gerenciar informações de muitos pets de forma manual.  
 Risco de esquecer instruções importantes ou confundir rotinas.  
-Falta de uma ferramenta única para organizar todos os dados com segurança.
+Não da conta de organizar todos os dados manualmente.
 
 #### - Ganhos:
 Organização centralizada das informações e rotinas de cada pet.  
@@ -230,9 +229,7 @@ Profissionalização do serviço e aumento da credibilidade com os clientes.
 
 [^1]: Fonte: Adaptado de <https://hazeshift.com.br/mapa-de-empatia/>
 
-<!-- TODOs:
-- Add exemplos
- -->
+
 
 
 
