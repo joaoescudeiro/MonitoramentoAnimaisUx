@@ -199,7 +199,7 @@ Profissionalização do serviço e aumento da credibilidade com os clientes.
 ## Jornada do usuário
 Persona 1 - Carla Mendes
 1. Carla abre o site em seu navegador.
-2. Realiza seu cadastro pessoal.[
+2. Realiza seu cadastro pessoal.
 3. Realiza o cadastro de seu cachorro Dudu e adiciona as informaçõs necessárias.
 4. No seu dia a dia, Carla monitora os dados de saúde e rotineiros de Dudu.
 5. Certo dia, Carla recebe o alerta: "Atenção: Dudu está com a vacinação anual vencida!", então ela agenda uma consulta ao veterinário.
@@ -235,6 +235,7 @@ Persona 1 - Carla Mendes
 #### Avaliação heurística
 
 [^1]: Fonte: Adaptado de <https://hazeshift.com.br/mapa-de-empatia/>
+
 
 
 
