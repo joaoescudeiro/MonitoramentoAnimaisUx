@@ -197,11 +197,15 @@ Profissionalização do serviço e aumento da credibilidade com os clientes.
 - Em consultas veterinárias, usando o histórico da aplicação para fornecer informações ao profissional.
 
 ## Jornada do usuário
+Persona 1 - Carla Mendes
+1. Carla abre o site em seu navegador.
+2. Realiza seu cadastro pessoal.[
+3. Realiza o cadastro de seu cachorro Dudu e adiciona as informaçõs necessárias.
+4. No seu dia a dia, Carla monitora os dados de saúde e rotineiros de Dudu.
+5. Certo dia, Carla recebe o alerta: "Atenção: Dudu está com a vacinação anual vencida!", então ela agenda uma consulta ao veterinário.
+6. Após a vacinação, ela registra o ocorrido na aplicação. O histórico de saúde é atualizado automáticamente, mostrando qual foi a dose aplicada e quando será a próxima.
 
-- Criar uma narrativa para o o seu serviço ou poduto com o usuário.
-- Determine o que o usuário realiza desde a primeira até o última interação com o serviço ou poduto.
-  - Descreva o que acontece ou pode acontecer passo a passo
-  - Como a tarefa começa? Como a tarefa se desenvolve? Como a tarefa termina?
+- A jornada começa com o cadastro e configuração inicial, se desenvolve com o acompanhamento diário da saúde e rotina, inclui alertas preventivos e termina com o registro e atualização do histórico de saúde.
 
 ## Análise de concorrência
 
@@ -231,6 +235,7 @@ Profissionalização do serviço e aumento da credibilidade com os clientes.
 #### Avaliação heurística
 
 [^1]: Fonte: Adaptado de <https://hazeshift.com.br/mapa-de-empatia/>
+
 
 
 
