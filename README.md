@@ -192,9 +192,9 @@ Profissionalização do serviço e aumento da credibilidade com os clientes.
 - Há um contexto em que os pets são considerados membros da família, com grande investimento emocional e financeiro de seus donos.
 - Serão guardadas informações relevantes sobre o ambiente, como condições de espaço em que o animal vive (restrições de movimento) e tipo de residência.
 - Durante a utilização do produto, o usuário provavelmente deve estar:
-- Em casa, conferindo a rotina diária do seu animal.
-- Em momentos de preocupação, como ao perceber um comportamento ou sintoma incomum.
-- Em consultas veterinárias, usando o histórico da aplicação para fornecer informações ao profissional.
+1. Em casa, conferindo a rotina diária do seu animal.
+2. Em momentos de preocupação, como ao perceber um comportamento ou sintoma incomum.
+3. Em consultas veterinárias, usando o histórico da aplicação para fornecer informações ao profissional.
 
 ## Jornada do usuário
 Persona 1 - Carla Mendes
@@ -235,6 +235,7 @@ Persona 1 - Carla Mendes
 #### Avaliação heurística
 
 [^1]: Fonte: Adaptado de <https://hazeshift.com.br/mapa-de-empatia/>
+
 
 
 
