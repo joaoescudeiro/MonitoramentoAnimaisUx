@@ -205,7 +205,7 @@ Persona 1 - Carla Mendes
 5. Certo dia, Carla recebe o alerta: "Atenção: Dudu está com a vacinação anual vencida!", então ela agenda uma consulta ao veterinário.
 6. Após a vacinação, ela registra o ocorrido na aplicação. O histórico de saúde é atualizado automáticamente, mostrando qual foi a dose aplicada e quando será a próxima.
 
-- A jornada começa com o cadastro e configuração inicial, se desenvolve com o acompanhamento diário da saúde e rotina, inclui alertas preventivos e termina com o registro e atualização do histórico de saúde.
+- A jornada começa com o cadastro e configuração inicial, se desenvolve com o acompanhamento diário da saúde e rotina de bem-estar, inclui alertas preventivos e termina com o registro e atualização do histórico de saúde.
 
 ## Análise de concorrência
 
@@ -235,6 +235,7 @@ Persona 1 - Carla Mendes
 #### Avaliação heurística
 
 [^1]: Fonte: Adaptado de <https://hazeshift.com.br/mapa-de-empatia/>
+
 
 
 
