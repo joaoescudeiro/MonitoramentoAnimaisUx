@@ -20,7 +20,7 @@ Trabalho de Experiencia do Usuário (UX) apresentado ao Centro Universitário [F
 ## Publico Alvo
 
 - Donos de pets.
-- Pessoas que trabalham com animais (petsitters, etc).
+- Pessoas que trabalham com animais (petsitters, veterinários).
 
 ## Personas
 ### Persona primária 1:
@@ -315,6 +315,7 @@ Mora em Curitiba, cidade urbana, com uma grande demanda por serviços pet, princ
 #### Avaliação heurística
 
 [^1]: Fonte: Adaptado de <https://hazeshift.com.br/mapa-de-empatia/>
+
 
 
 
