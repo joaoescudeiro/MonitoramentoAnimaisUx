@@ -319,7 +319,7 @@ Mora em Curitiba, cidade urbana, com uma grande demanda por serviços pet, princ
   - Existe plataforma diferente quanto ao serviço, mas que atenda esse mercado? Se sim: Quais os pontos positivos? Quais os pontos negativos?
 
 ## Coleta de dados
-- [Formulário:] (https://docs.google.com/forms/d/e/1FAIpQLSdtmWC_8nNTeHDH8rb02tls6qIQwK2j44UYmbuzPtQTx4mbkQ/viewform?usp=header)
+- [Formulário:](https://docs.google.com/forms/d/e/1FAIpQLSdtmWC_8nNTeHDH8rb02tls6qIQwK2j44UYmbuzPtQTx4mbkQ/viewform?usp=header)
 - Roteiro de entrevista: Avaliação de usabilidade
 - Estudo de campo: será feita uma observação de usuários enquanto utilizam o serviço, para reparar suas dificuldades, identificando oportunidades de melhoria em sua experiência e correção de problemas notados.
 
@@ -341,6 +341,7 @@ Mora em Curitiba, cidade urbana, com uma grande demanda por serviços pet, princ
 #### Avaliação heurística
 
 [^1]: Fonte: Adaptado de <https://hazeshift.com.br/mapa-de-empatia/>
+
 
 
 
