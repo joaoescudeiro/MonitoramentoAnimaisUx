@@ -67,6 +67,7 @@ Criar uma rotina mais organizada com o novo animal.
 **Profissão:** Médica Veterinária  
 **Localização:** Recife, PE  
 **Pet:** 4 cachorros, 2 gatos e 2 peixes
+
 **Comportamento digital:**  
 Usa o computador e celular para fins profissionais e pessoais.  
 **Necessidades:**  
@@ -227,33 +228,55 @@ Profissionalização do serviço e aumento da credibilidade com os clientes.
 ## Contexto de uso
 
 #Persona primária 1 - Carla Mendes
+
 -Ambiente físico: 
-Usa o serviço principalmente em casa, no celular, durante momentos de descanso ou enquanto interage com o cachorro; ou em clínicas veterinárias, acessando o histórico do pet para mostrar informações durante consultas. Carla mora em um apartamento de médio porte em Belo Horizonte, que possui espaço planejado para facilitar a convivência com seu cachorro, mas limitado em área externa.
+
+Usa o serviço principalmente em casa, no celular, durante momentos de descanso ou enquanto interage com o cachorro; ou em clínicas veterinárias, acessando o histórico do pet para mostrar informações durante 
+consultas. Carla mora em um apartamento de médio porte em Belo Horizonte, que possui espaço planejado para facilitar a convivência com seu cachorro, mas limitado em área externa.
+
 
 -Contexto social:
-Carla vive em um ambiente urbano, cercada por pessoas que também têm pets. Ela conversa frequentemente com veterinários, pet shops e outros donos de cães, valorizando recomendações sobre saúde e bem-estar animal. Busca segurança emocional, pois se preocupa em ser uma tutora responsável e não falhar com seu cachorro.
+
+Carla vive em um ambiente urbano, cercada por pessoas que também têm pets. Ela conversa frequentemente com veterinários, pet shops e outros donos de cães, valorizando recomendações sobre saúde e bem-estar 
+animal. Busca segurança emocional, pois se preocupa em ser uma tutora responsável e não falhar com seu cachorro.
 
 -Contexto ecônomico:
+
 Mora em Belo Horizonte, onde existe um mercado forte de produtos e serviços pet.
 
+
 #Persona primária 3 - Luciana Torres
+
 -Ambiente físico:
-Luciana utiliza o sistema em ambientes domésticos, como sua casa, onde cuida de seus pets, e também em ambientes profissionais, como a clínica veterinária onde trabalha. Em casa, ela precisa de um lugar calmo para gerenciar as informações, enquanto na clínica pode acessar os dados rapidamente pelo celular ou computador entre atendimentos. Luciana mora em uma casa espaçosa, típica de bairros residenciais de Recife, com uma área externa grande para acomodar seus quatro cachorros. A casa possui quintal cercado, garantindo segurança para os cães brincarem sem risco de fuga, há também um espaço interno tranquilo onde ficam os gatos e o aquário com os peixes.
+
+Luciana utiliza o sistema em ambientes domésticos, como sua casa, onde cuida de seus pets, e também em ambientes profissionais, como a clínica veterinária onde trabalha. Em casa, ela precisa de um lugar calmo 
+para gerenciar as informações, enquanto na clínica pode acessar os dados rapidamente pelo celular ou computador entre atendimentos. Luciana mora em uma casa espaçosa, típica de bairros residenciais de Recife, 
+com uma área externa grande para acomodar seus quatro cachorros. A casa possui quintal cercado, garantindo segurança para os cães brincarem sem risco de fuga, há também um espaço interno tranquilo onde ficam os 
+gatos e o aquário com os peixes.
 
 -Contexto social:
-Ela faz parte de um círculo social que valoriza fortemente o bem-estar animal. Como veterinária, tem contato diário com outros profissionais da área, além de clientes que também enfrentam dificuldades em gerenciar informações de saúde dos seus pets. Ela se sente responsável não apenas pelos próprios animais, mas também em dar o exemplo e indicar boas práticas aos clientes.
+
+Ela faz parte de um círculo social que valoriza fortemente o bem-estar animal. Como veterinária, tem contato diário com outros profissionais da área, além de clientes que também enfrentam dificuldades em 
+gerenciar informações de saúde dos seus pets. Ela se sente responsável não apenas pelos próprios animais, mas também em dar o exemplo e indicar boas práticas aos clientes.
 
 -Contexto ecônomico:
+
 Luciana vive em Recife, uma cidade grande, com acesso a tecnologia e serviços modernos.
 
+
 #Persona secundária - Patrícia Gomes
+
 -Ambiente físico:
+
 Interage com a aplicação na casa do cliente, durante os cuidados com os pets. Em casa, usa o celular para organizar a agenda e revisar informações dos animais que cuidará no dia seguinte.
 
 -Contexto social:
-Ela atua em um ambiente onde a confiança e a comunicação clara são essenciais, pois os donos querem segurança e responsabilidade, mas lida diretamente com clientes que têm agendas cheias e muitas vezes passam informações incompletas sobre seus pets. Faz parte de grupos online de pet sitters, onde compartilham dicas e experiências.
+
+Ela atua em um ambiente onde a confiança e a comunicação clara são essenciais, pois os donos querem segurança e responsabilidade, mas lida diretamente com clientes que têm agendas cheias e muitas vezes passam 
+informações incompletas sobre seus pets. Faz parte de grupos online de pet sitters, onde compartilham dicas e experiências.
 
 -Contexto ecônomico:
+
 Mora em Curitiba, cidade urbana, com uma grande demanda por serviços pet, principalmente de famílias que passam muito tempo fora de casa.
 
 ## Jornada do usuário
@@ -314,6 +337,7 @@ Mora em Curitiba, cidade urbana, com uma grande demanda por serviços pet, princ
 #### Avaliação heurística
 
 [^1]: Fonte: Adaptado de <https://hazeshift.com.br/mapa-de-empatia/>
+
 
 
 
