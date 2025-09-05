@@ -227,64 +227,64 @@ Profissionalização do serviço e aumento da credibilidade com os clientes.
 
 ## Contexto de uso
 
-##Persona primária 1 - Carla Mendes
+## Persona primária 1 - Carla Mendes
 
 
--Ambiente físico: 
+- Ambiente físico: 
 
 Usa o serviço principalmente em casa, no celular, durante momentos de descanso ou enquanto interage com o cachorro; ou em clínicas veterinárias, acessando o histórico do pet para mostrar informações durante 
 consultas. Carla mora em um apartamento de médio porte em Belo Horizonte, que possui espaço planejado para facilitar a convivência com seu cachorro, mas limitado em área externa.
 
 
--Contexto social:
+- Contexto social:
 
 Carla vive em um ambiente urbano, cercada por pessoas que também têm pets. Ela conversa frequentemente com veterinários, pet shops e outros donos de cães, valorizando recomendações sobre saúde e bem-estar 
 animal. Busca segurança emocional, pois se preocupa em ser uma tutora responsável e não falhar com seu cachorro.
 
--Contexto ecônomico:
+- Contexto ecônomico:
 
 Mora em Belo Horizonte, onde existe um mercado forte de produtos e serviços pet.
 
 
-##Persona primária 3 - Luciana Torres
+## Persona primária 3 - Luciana Torres
 
 
--Ambiente físico:
+- Ambiente físico:
 
 Luciana utiliza o sistema em ambientes domésticos, como sua casa, onde cuida de seus pets, e também em ambientes profissionais, como a clínica veterinária onde trabalha. Em casa, ela precisa de um lugar calmo 
 para gerenciar as informações, enquanto na clínica pode acessar os dados rapidamente pelo celular ou computador entre atendimentos. Luciana mora em uma casa espaçosa, típica de bairros residenciais de Recife, 
 com uma área externa grande para acomodar seus quatro cachorros. A casa possui quintal cercado, garantindo segurança para os cães brincarem sem risco de fuga, há também um espaço interno tranquilo onde ficam os 
 gatos e o aquário com os peixes.
 
--Contexto social:
+- Contexto social:
 
 Ela faz parte de um círculo social que valoriza fortemente o bem-estar animal. Como veterinária, tem contato diário com outros profissionais da área, além de clientes que também enfrentam dificuldades em 
 gerenciar informações de saúde dos seus pets. Ela se sente responsável não apenas pelos próprios animais, mas também em dar o exemplo e indicar boas práticas aos clientes.
 
--Contexto ecônomico:
+- Contexto ecônomico:
 
 Luciana vive em Recife, uma cidade grande, com acesso a tecnologia e serviços modernos.
 
 
-##Persona secundária - Patrícia Gomes
+## Persona secundária - Patrícia Gomes
 
 
--Ambiente físico:
+- Ambiente físico:
 
 Interage com a aplicação na casa do cliente, durante os cuidados com os pets. Em casa, usa o celular para organizar a agenda e revisar informações dos animais que cuidará no dia seguinte.
 
--Contexto social:
+- Contexto social:
 
 Ela atua em um ambiente onde a confiança e a comunicação clara são essenciais, pois os donos querem segurança e responsabilidade, mas lida diretamente com clientes que têm agendas cheias e muitas vezes passam 
 informações incompletas sobre seus pets. Faz parte de grupos online de pet sitters, onde compartilham dicas e experiências.
 
--Contexto ecônomico:
+- Contexto ecônomico:
 
 Mora em Curitiba, cidade urbana, com uma grande demanda por serviços pet, principalmente de famílias que passam muito tempo fora de casa.
 
 ## Jornada do usuário
 
-#Persona primária 1 - Carla Mendes
+# Persona primária 1 - Carla Mendes
 1. Carla abre o site em seu navegador.
 2. Realiza seu cadastro pessoal.
 3. Realiza o cadastro de seu cachorro Dudu e adiciona as informaçõs necessárias.
@@ -292,14 +292,14 @@ Mora em Curitiba, cidade urbana, com uma grande demanda por serviços pet, princ
 5. Certo dia, Carla recebe o alerta: "Atenção: Dudu está com a vacinação anual vencida!", então ela agenda uma consulta ao veterinário.
 6. Após a vacinação, ela registra o ocorrido na aplicação. O histórico de saúde é atualizado automáticamente, mostrando qual foi a dose aplicada e quando será a próxima.
 
-#Persona primária 3 - Luciana Torres
+# Persona primária 3 - Luciana Torres
 1. Luciana ouve falar do site na clínica e decide testar.
 2. Em casa, no home office, cria uma conta. Registra os dados de todos os seus pets: vacinas, histórico médico e alimentação.
 3. Ela usa o site diariamente, atualizando informações como peso e consultas e utilizando gráficos.
 4. Certo dia ela nota comportamento estranho em um gato. Então consulta o histórico no site e identifica mudanças recentes. Decide se precisa levá-lo a atendimento.
 5. Sente-se mais organizada e confiante. Passa a recomendar o site para clientes na clínica e amigos que têm pets.
 
-#Persona secundária - Patrícia Gomes
+# Persona secundária - Patrícia Gomes
 1. Patrícia percebe que está confusa com tantas anotações físicas e informações desencontradas dos clientes.
 2. Descobre o site com uma amiga e decide testar.
 3. Cria uma conta e adiciona todos os pets. Registra informações importantes, como alimentação, horários de medicação, comportamento e vacinas.
@@ -341,6 +341,7 @@ Mora em Curitiba, cidade urbana, com uma grande demanda por serviços pet, princ
 #### Avaliação heurística
 
 [^1]: Fonte: Adaptado de <https://hazeshift.com.br/mapa-de-empatia/>
+
 
 
 
