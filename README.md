@@ -67,7 +67,6 @@ Criar uma rotina mais organizada com o novo animal.
 **Profissão:** Médica Veterinária  
 **Localização:** Recife, PE  
 **Pet:** 4 cachorros, 2 gatos e 2 peixes
-
 **Comportamento digital:**  
 Usa o computador e celular para fins profissionais e pessoais.  
 **Necessidades:**  
@@ -315,6 +314,7 @@ Mora em Curitiba, cidade urbana, com uma grande demanda por serviços pet, princ
 #### Avaliação heurística
 
 [^1]: Fonte: Adaptado de <https://hazeshift.com.br/mapa-de-empatia/>
+
 
 
 
