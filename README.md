@@ -227,7 +227,8 @@ Profissionalização do serviço e aumento da credibilidade com os clientes.
 
 ## Contexto de uso
 
-#Persona primária 1 - Carla Mendes
+##Persona primária 1 - Carla Mendes
+
 
 -Ambiente físico: 
 
@@ -245,7 +246,8 @@ animal. Busca segurança emocional, pois se preocupa em ser uma tutora responsá
 Mora em Belo Horizonte, onde existe um mercado forte de produtos e serviços pet.
 
 
-#Persona primária 3 - Luciana Torres
+##Persona primária 3 - Luciana Torres
+
 
 -Ambiente físico:
 
@@ -264,7 +266,8 @@ gerenciar informações de saúde dos seus pets. Ela se sente responsável não 
 Luciana vive em Recife, uma cidade grande, com acesso a tecnologia e serviços modernos.
 
 
-#Persona secundária - Patrícia Gomes
+##Persona secundária - Patrícia Gomes
+
 
 -Ambiente físico:
 
@@ -337,6 +340,7 @@ Mora em Curitiba, cidade urbana, com uma grande demanda por serviços pet, princ
 #### Avaliação heurística
 
 [^1]: Fonte: Adaptado de <https://hazeshift.com.br/mapa-de-empatia/>
+
 
 
 
