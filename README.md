@@ -225,7 +225,7 @@ Maior agilidade e confiança ao executar as tarefas diárias.
 Facilidade na comunicação com os tutores.  
 Profissionalização do serviço e aumento da credibilidade com os clientes.
 
-### Contexto de uso
+# Contexto de uso
 
 ## Persona primária 1 - Carla Mendes
 
@@ -282,7 +282,7 @@ informações incompletas sobre seus pets. Faz parte de grupos online de pet sit
 
 Mora em Curitiba, cidade urbana, com uma grande demanda por serviços pet, principalmente de famílias que passam muito tempo fora de casa.
 
-### Jornada do usuário
+# Jornada do usuário
 
 ## Persona primária 1 - Carla Mendes
 1. Carla abre o site em seu navegador.
@@ -341,6 +341,7 @@ Mora em Curitiba, cidade urbana, com uma grande demanda por serviços pet, princ
 #### Avaliação heurística
 
 [^1]: Fonte: Adaptado de <https://hazeshift.com.br/mapa-de-empatia/>
+
 
 
 
