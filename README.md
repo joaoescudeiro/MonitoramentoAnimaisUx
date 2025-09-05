@@ -225,7 +225,7 @@ Maior agilidade e confiança ao executar as tarefas diárias.
 Facilidade na comunicação com os tutores.  
 Profissionalização do serviço e aumento da credibilidade com os clientes.
 
-## Contexto de uso
+### Contexto de uso
 
 ## Persona primária 1 - Carla Mendes
 
@@ -282,9 +282,9 @@ informações incompletas sobre seus pets. Faz parte de grupos online de pet sit
 
 Mora em Curitiba, cidade urbana, com uma grande demanda por serviços pet, principalmente de famílias que passam muito tempo fora de casa.
 
-## Jornada do usuário
+### Jornada do usuário
 
-# Persona primária 1 - Carla Mendes
+## Persona primária 1 - Carla Mendes
 1. Carla abre o site em seu navegador.
 2. Realiza seu cadastro pessoal.
 3. Realiza o cadastro de seu cachorro Dudu e adiciona as informaçõs necessárias.
@@ -292,14 +292,14 @@ Mora em Curitiba, cidade urbana, com uma grande demanda por serviços pet, princ
 5. Certo dia, Carla recebe o alerta: "Atenção: Dudu está com a vacinação anual vencida!", então ela agenda uma consulta ao veterinário.
 6. Após a vacinação, ela registra o ocorrido na aplicação. O histórico de saúde é atualizado automáticamente, mostrando qual foi a dose aplicada e quando será a próxima.
 
-# Persona primária 3 - Luciana Torres
+## Persona primária 3 - Luciana Torres
 1. Luciana ouve falar do site na clínica e decide testar.
 2. Em casa, no home office, cria uma conta. Registra os dados de todos os seus pets: vacinas, histórico médico e alimentação.
 3. Ela usa o site diariamente, atualizando informações como peso e consultas e utilizando gráficos.
 4. Certo dia ela nota comportamento estranho em um gato. Então consulta o histórico no site e identifica mudanças recentes. Decide se precisa levá-lo a atendimento.
 5. Sente-se mais organizada e confiante. Passa a recomendar o site para clientes na clínica e amigos que têm pets.
 
-# Persona secundária - Patrícia Gomes
+## Persona secundária - Patrícia Gomes
 1. Patrícia percebe que está confusa com tantas anotações físicas e informações desencontradas dos clientes.
 2. Descobre o site com uma amiga e decide testar.
 3. Cria uma conta e adiciona todos os pets. Registra informações importantes, como alimentação, horários de medicação, comportamento e vacinas.
@@ -341,6 +341,7 @@ Mora em Curitiba, cidade urbana, com uma grande demanda por serviços pet, princ
 #### Avaliação heurística
 
 [^1]: Fonte: Adaptado de <https://hazeshift.com.br/mapa-de-empatia/>
+
 
 
 
