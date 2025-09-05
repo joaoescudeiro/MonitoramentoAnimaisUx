@@ -66,6 +66,7 @@ Criar uma rotina mais organizada com o novo animal.
 **Profissão:** Médica Veterinária  
 **Localização:** Recife, PE  
 **Pet:** 4 cachorros, 2 gatos e 2 peixes
+
 **Comportamento digital:**  
 Usa o computador e celular para fins profissionais e pessoais.  
 **Necessidades:**  
@@ -186,6 +187,41 @@ Maior agilidade e confiança ao executar as tarefas diárias.
 Facilidade na comunicação com os tutores.  
 Profissionalização do serviço e aumento da credibilidade com os clientes.
 
+### Mapa de Empatia — Persona Primária 3: Luciana Torres
+#### - O que o usuário vê:
+Muitos aplicativos e planilhas, mas nenhum que centralize tudo.
+Uma rotina cheia de compromissos, tanto profissionais quanto pessoais.
+Outros tutores que usam lembretes manuais, como cadernos e planilhas.
+
+#### - O que o usuário ouve:
+Colegas veterinários e amigos recomendando aplicativos diferentes, mas que não atendem todas as suas necessidades.
+Comentários sobre novas tecnologias para cuidado animal, como coleiras inteligentes e apps de monitoramento.
+Clientes falando sobre problemas semelhantes na organização de informações sobre seus pets.
+
+#### - O que o usuário diz e faz:
+Reclama de ter que anotar informações em lugares diferentes.
+Comenta com amigos e clientes sobre a dificuldade de organizar a rotina dos animais.
+Procura soluções digitais, mas desiste rapidamente se forem complicadas.
+Costuma criar planilhas manuais como forma de controle, mas acha cansativo. 
+
+#### - O que o usuário pensa e sente:
+Preocupada em manter a saúde dos pets sempre em dia.
+Quer ter organização e controle, mas se sente sobrecarregada.
+Acha frustrante ter que usar várias ferramentas separadas para gerenciar as informações.
+
+#### - Dores:
+Dificuldade em gerenciar informações de muitos pets de forma manual.  
+Risco de esquecer instruções importantes ou confundir rotinas.  
+Não da conta de organizar todos os dados manualmente.
+Tempo perdido buscando informações espalhadas em cadernos e planilhas.
+
+#### - Ganhos:
+Centralizar todas as informações dos pets em um único sistema.
+Receber alertas automáticos sobre vacinas, consultas e cuidados.
+Facilidade para visualizar históricos de saúde.
+Ganhar tranquilidade e praticidade, reduzindo a sobrecarga mental.
+Ter uma plataforma intuitiva, que se adapte ao dia a dia corrido.
+
 ## Contexto de uso
 
 - O serviço será utilizado principalmente em ambientes residenciais.
@@ -237,6 +273,7 @@ Persona 1 - Carla Mendes
 #### Avaliação heurística
 
 [^1]: Fonte: Adaptado de <https://hazeshift.com.br/mapa-de-empatia/>
+
 
 
 
