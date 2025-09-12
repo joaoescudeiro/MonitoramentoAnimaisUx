@@ -283,7 +283,8 @@ informações incompletas sobre seus pets. Faz parte de grupos online de pet sit
 Mora em Curitiba, cidade urbana, com uma grande demanda por serviços pet, principalmente de famílias que passam muito tempo fora de casa.
 
 ## Jornada do usuário
-
+- A jornada começa com o cadastro e configuração inicial, se desenvolve com o acompanhamento diário da saúde e rotina de bem-estar, inclui alertas preventivos e termina com o registro e atualização do histórico de saúde.
+  
 ### Persona primária 1 - Carla Mendes
 1. Carla abre o site em seu navegador.
 2. Realiza seu cadastro pessoal.
@@ -308,7 +309,6 @@ Mora em Curitiba, cidade urbana, com uma grande demanda por serviços pet, princ
 6. Recebe notificações durante o dia, como: “Lembrete: limpar caixa de areia da Luna!” garantindo que nenhum cuidado seja esquecido.
 7. Ao chegar em casa, Patrícia revisa os atendimentos feitos.
 
-- A jornada começa com o cadastro e configuração inicial, se desenvolve com o acompanhamento diário da saúde e rotina de bem-estar, inclui alertas preventivos e termina com o registro e atualização do histórico de saúde.
 
 ## Análise de concorrência
 
@@ -341,6 +341,7 @@ Mora em Curitiba, cidade urbana, com uma grande demanda por serviços pet, princ
 #### Avaliação heurística
 
 [^1]: Fonte: Adaptado de <https://hazeshift.com.br/mapa-de-empatia/>
+
 
 
 
