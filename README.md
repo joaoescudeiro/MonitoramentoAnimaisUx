@@ -324,7 +324,7 @@ Mora em Curitiba, cidade urbana, com uma grande demanda por serviços pet, princ
 - Estudo de campo: será feita uma observação de usuários enquanto utilizam o serviço, para reparar suas dificuldades, analisando oportunidades de melhoria em sua experiência e correção de problemas notados.
   O objetivo do estudo é identificar como o sistema interfere em situações reais, e se ele realmente atende às necessidades de todos os usuários nos seus dia a dias.
 
---- Perfil dos Participantes do estudo:
+- Perfil dos Participantes do estudo:
 
 -- Tutores de pet (Persona primária 1: Carla Mendes, dona de 1 cachorro)
 
@@ -334,8 +334,7 @@ Mora em Curitiba, cidade urbana, com uma grande demanda por serviços pet, princ
 
 
 
-
---- Locais de observação:
+- Locais de observação:
 
 -- Residências dos tutores – para analisar o uso do sistema na rotina doméstica.
 
@@ -345,8 +344,7 @@ Mora em Curitiba, cidade urbana, com uma grande demanda por serviços pet, princ
 
 
 
-
---- Focos principais da análise:
+- Focos principais da análise:
 
 -- Intuitividade e clareza na navegação.
 
@@ -378,6 +376,7 @@ Mora em Curitiba, cidade urbana, com uma grande demanda por serviços pet, princ
 #### Avaliação heurística
 
 [^1]: Fonte: Adaptado de <https://hazeshift.com.br/mapa-de-empatia/>
+
 
 
 
