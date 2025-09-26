@@ -321,7 +321,26 @@ Mora em Curitiba, cidade urbana, com uma grande demanda por serviços pet, princ
 ## Coleta de dados
 - [Formulário](https://docs.google.com/forms/d/e/1FAIpQLSdtmWC_8nNTeHDH8rb02tls6qIQwK2j44UYmbuzPtQTx4mbkQ/viewform?usp=header)
 - [Roteiro de entrevista: Avaliação de usabilidade](roteirodeentrevista.pdf)
-- Estudo de campo: será feita uma observação de usuários enquanto utilizam o serviço, para reparar suas dificuldades, identificando oportunidades de melhoria em sua experiência e correção de problemas notados.
+- Estudo de campo: será feita uma observação de usuários enquanto utilizam o serviço, para reparar suas dificuldades, analisando oportunidades de melhoria em sua experiência e correção de problemas notados.
+  O objetivo do estudo é identificar como o sistema interfere em situações reais, e se ele realmente atende às necessidades de todos os usuários nos seus dia a dias.
+
+--- Perfil dos Participantes do estudo:  
+-- Tutores de pet (Persona primária 1: Carla Mendes, dona de 1 cachorro)
+-- Tutores de muitos pets (Persona primária 3: Luciana Torres, dona de 4 cachorros, 2 gatos e 2 peixes)
+-- Pet Sitters (Persona secundária: Patrícia Gomes, não é dona de pet, apenas cuida dos pets de clientes)
+
+--- Locais de observação:
+-- Residências dos tutores – para analisar o uso do sistema na rotina doméstica.
+-- Clínicas veterinárias – para avaliar como o sistema facilita a comunicação e registro de informações.
+-- Durante passeios em ambientes externos – para observar interações fora de casa, como consultas rápidas ao app.
+
+--- Focos principais da análise:
+-- Intuitividade e clareza na navegação.
+-- Facilidade para executar tarefas principais.
+-- Utilidade das notificações e lembretes.
+-- Impacto do sistema na rotina de cuidados com os pets.
+-- Sentimentos gerados durante a interação.
+
 
 ## Modelo de tarefas
 
@@ -341,6 +360,7 @@ Mora em Curitiba, cidade urbana, com uma grande demanda por serviços pet, princ
 #### Avaliação heurística
 
 [^1]: Fonte: Adaptado de <https://hazeshift.com.br/mapa-de-empatia/>
+
 
 
 
