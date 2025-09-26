@@ -333,6 +333,8 @@ Mora em Curitiba, cidade urbana, com uma grande demanda por serviços pet, princ
 -- Pet Sitters (Persona secundária: Patrícia Gomes, não é dona de pet, apenas cuida dos pets de clientes)
 
 
+
+
 --- Locais de observação:
 
 -- Residências dos tutores – para analisar o uso do sistema na rotina doméstica.
@@ -340,6 +342,8 @@ Mora em Curitiba, cidade urbana, com uma grande demanda por serviços pet, princ
 -- Clínicas veterinárias – para avaliar como o sistema facilita a comunicação e registro de informações.
 
 -- Durante passeios em ambientes externos – para observar interações fora de casa, como consultas rápidas ao app.
+
+
 
 
 --- Focos principais da análise:
@@ -374,6 +378,7 @@ Mora em Curitiba, cidade urbana, com uma grande demanda por serviços pet, princ
 #### Avaliação heurística
 
 [^1]: Fonte: Adaptado de <https://hazeshift.com.br/mapa-de-empatia/>
+
 
 
 
