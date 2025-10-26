@@ -368,11 +368,11 @@ Mora em Curitiba, cidade urbana, com uma grande demanda por serviços pet, princ
 
 ### Prototipação em baixo nível (papel)
 
-<img src="desenho1.jpg" alt="desenho" width="400">
+<img src="desenho1.jpg" alt="desenho" width="450">
 
-<img src="desenho2.jpg" alt="desenho" width="400">
+<img src="desenho2.jpg" alt="desenho" width="450">
 
-<img src="desenho3.jpg" alt="desenho" width="400">
+<img src="desenho3.jpg" alt="desenho" width="450">
 
 
 ### Prtotipação em médio nível (Figma)
@@ -382,6 +382,7 @@ Mora em Curitiba, cidade urbana, com uma grande demanda por serviços pet, princ
 #### Avaliação heurística
 
 [^1]: Fonte: Adaptado de <https://hazeshift.com.br/mapa-de-empatia/>
+
 
 
 
