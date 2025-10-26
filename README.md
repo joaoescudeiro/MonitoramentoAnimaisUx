@@ -367,7 +367,12 @@ Mora em Curitiba, cidade urbana, com uma grande demanda por serviços pet, princ
 - Discuta o papel das expectativas do usuário no projeto deste serviço ou poduto. Qual a importância e pontos a serem considerados se você quiser vender esse serviço ou poduto?
 
 ### Prototipação em baixo nível (papel)
-#### Avaliação heurística
+
+![Desenho](desenho1.jpg)
+
+![Desenho](desenho2.jpg)
+
+![Desenho](desenho3.jpg)
 
 ### Prtotipação em médio nível (Figma)
 #### Avaliação heurística
@@ -376,6 +381,7 @@ Mora em Curitiba, cidade urbana, com uma grande demanda por serviços pet, princ
 #### Avaliação heurística
 
 [^1]: Fonte: Adaptado de <https://hazeshift.com.br/mapa-de-empatia/>
+
 
 
 
