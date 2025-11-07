@@ -376,13 +376,15 @@ Mora em Curitiba, cidade urbana, com uma grande demanda por serviços pet, princ
 
 
 ### Prtotipação em médio nível (Figma)
-#### Avaliação heurística
 - [Link Figma](https://www.figma.com/site/wEO6ftlGxLWpIQGR2XiWaI/Gerenciador-de-pets?node-id=0-1&t=PSaoj7AdKFOx32HG-1)
+#### Avaliação heurística
+
 
 ### Prtotipação em alto nível (React)
 #### Avaliação heurística
 
 [^1]: Fonte: Adaptado de <https://hazeshift.com.br/mapa-de-empatia/>
+
 
 
 
