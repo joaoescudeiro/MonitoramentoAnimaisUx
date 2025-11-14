@@ -362,9 +362,12 @@ Mora em Curitiba, cidade urbana, com uma grande demanda por serviços pet, princ
 
 ## Design
 
-- Pense nas características de Affordances do seu serviço ou poduto. 
-    - Que tipo de acessibilidades devem ser consideradas dentro do seu projeto?
-- Discuta o papel das expectativas do usuário no projeto deste serviço ou poduto. Qual a importância e pontos a serem considerados se você quiser vender esse serviço ou poduto?
+- Visamos fazer uma interface bem intuitiva, fácil de usar e padronizada, onde items que realizam funções similares vão utilizar cores e características de design parecidos.
+  
+- Consideramos dar liberdade ao usuário, permitindo-o voltar e desfazer ações quando necessário, posibilidade de acessar o menu de todas as páginas e sempre dar mensagens de feedback para mantê-lo atualizado das operações, assim como mensagens de confirmação ao realizar ações críticas.
+  
+- Os principais pontos a serem considerados são a intuitividade e usabilidade do sistema.
+  
 
 ### Prototipação em baixo nível (papel)
 
@@ -387,6 +390,7 @@ Mora em Curitiba, cidade urbana, com uma grande demanda por serviços pet, princ
 #### Avaliação heurística
 
 [^1]: Fonte: Adaptado de <https://hazeshift.com.br/mapa-de-empatia/>
+
 
 
 
