@@ -360,6 +360,11 @@ Mora em Curitiba, cidade urbana, com uma grande demanda por serviços pet, princ
 
 ## Modelo de tarefas
 
+- <a href="AnaliseDeTarefas_CadastrarConsulta.pdf">Ánalise de tarefas 1</a>
+- <a href="AnaliseDeTarefas-CadastrarPet.pdf">Ánalise de tarefas 2</a>
+- <a href="AnáliseDeRequisitos.pdf">Ánalise de requisitos</a>
+- <a href="MoLIC_Consulta_Perfil.pdf">MOLIC</a>
+
 ## Design
 
 - Visamos fazer uma interface bem intuitiva, fácil de usar e padronizada, onde items que realizam funções similares vão utilizar cores e características de design parecidos.
@@ -390,6 +395,7 @@ Mora em Curitiba, cidade urbana, com uma grande demanda por serviços pet, princ
 #### Avaliação heurística
 
 [^1]: Fonte: Adaptado de <https://hazeshift.com.br/mapa-de-empatia/>
+
 
 
 
