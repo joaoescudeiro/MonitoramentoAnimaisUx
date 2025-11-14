@@ -379,13 +379,15 @@ Mora em Curitiba, cidade urbana, com uma grande demanda por serviços pet, princ
 - [Link Figma](https://www.figma.com/site/wEO6ftlGxLWpIQGR2XiWaI/Gerenciador-de-pets?node-id=0-1&t=PSaoj7AdKFOx32HG-1)
 - 
 #### Avaliação heurística
-[Avaliação Heurística 1 ](https://github.com/joaoescudeiro/MonitoramentoAnimaisUx/blob/main/Modelo%2002%20Avaliacao%20Heuristica%20(2).doc)
-[Avaliação Heurística 2](https://github.com/joaoescudeiro/MonitoramentoAnimaisUx/blob/main/Modelo%2002%20Avaliacao%20Heuristica%20(3).doc)
+- [Avaliação Heurística 1 ](https://github.com/joaoescudeiro/MonitoramentoAnimaisUx/blob/main/Modelo%2002%20Avaliacao%20Heuristica%20(2).doc)
+
+- [Avaliação Heurística 2](https://github.com/joaoescudeiro/MonitoramentoAnimaisUx/blob/main/Modelo%2002%20Avaliacao%20Heuristica%20(3).doc)
 
 ### Prtotipação em alto nível (React)
 #### Avaliação heurística
 
 [^1]: Fonte: Adaptado de <https://hazeshift.com.br/mapa-de-empatia/>
+
 
 
 
